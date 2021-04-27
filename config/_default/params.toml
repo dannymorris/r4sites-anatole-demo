@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Danny Morris"
+author = "Danny Morris"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "I help people build personal websites."
+profilePicture = "images/danny-profile-image.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -13,8 +13,10 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+# Google Analytics
+googleAnalytics = "UA-195471994-1"
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+contactFormAction = "https://formspree.io/f/xayaqyre"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 singleDateFormat = "2/1/2006"
@@ -41,12 +43,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/drmorris87/
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/dannymorris"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
