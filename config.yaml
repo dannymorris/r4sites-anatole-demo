@@ -9,6 +9,3 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
-googleAnalytics: "UA-195471994-1"
-params:
-  contactFormAction: "https://formspree.io/f/xayaqyre"
